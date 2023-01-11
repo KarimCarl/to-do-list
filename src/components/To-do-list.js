@@ -4,3 +4,4 @@ function To-do-list() {
     );
 }
 
+export default To-do-list;
