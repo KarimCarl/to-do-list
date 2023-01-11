@@ -5,3 +5,5 @@ function Home(){
         <ToDoList />
     );
 }
+
+export default Home;
