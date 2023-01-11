@@ -2,7 +2,7 @@ function ToDoItem () {
     return (
         <div> 
             <h3>React</h3>
-            <p>Lear react</p>
+            <p>Learn react</p>
         </div>
     );
 }
