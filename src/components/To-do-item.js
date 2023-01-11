@@ -1,7 +1,10 @@
-function To-do-item () {
+function ToDoItem () {
     return (
-        <div> To-do Item </div>
+        <div> 
+            <h3>Item</h3>
+            <p>Lorem ipsum</p>
+        </div>
     );
 }
 
-export default To-do-item;
+export default ToDoItem;
