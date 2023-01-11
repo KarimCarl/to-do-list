@@ -8,8 +8,6 @@ function ToDoList() {
             <ToDoItem/>
             <ToDoItem/>
             <ToDoItem/>
-            <ToDoItem/>
-            <ToDoItem/>
         </div>
     );
 }
