@@ -1,7 +1,17 @@
-function To-do-list() {
+import ToDoItem from "./To-do-item";
+
+function ToDoList() {
     return (
-        <div> To-do list </div>
+        <div> 
+            <ToDoItem/>
+            <ToDoItem/>
+            <ToDoItem/>
+            <ToDoItem/>
+            <ToDoItem/>
+            <ToDoItem/>
+            <ToDoItem/>
+        </div>
     );
 }
 
-export default To-do-list;
+export default ToDoList;
