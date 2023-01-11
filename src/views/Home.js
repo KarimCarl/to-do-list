@@ -1,8 +1,19 @@
 import ToDoList from "../components/To-do-list"
+import NavBar from "../components/NavBar";
 
 function Home(){
     return (
-        <ToDoList />
+        <div> 
+            <div>
+                <NavBar />
+            </div>
+
+            <div> 
+                <ToDoList /> 
+            </div> 
+        </div>   
+            
+
     );
 }
 
