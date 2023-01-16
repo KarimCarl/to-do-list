@@ -5,6 +5,7 @@ import Home from './views/Home';
 function App() {
   return (
     <div className="App">
+<<<<<<< HEAD
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -19,6 +20,8 @@ function App() {
           Learn React
         </a>
       </header>
+=======
+>>>>>>> fe69cb6f686f86345d036be22a660beafe70b2ca
     </div>
   );
 }
