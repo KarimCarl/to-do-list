@@ -4,9 +4,12 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+//Declaring a root variable. All components will be stored in this variable
+//entry point 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
+  //StrictMode catches errors within your app
+  <React.StrictMode> 
     <App />
   </React.StrictMode>
 );
