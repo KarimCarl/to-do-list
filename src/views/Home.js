@@ -25,7 +25,7 @@ function Home(){
             "status": false
         }
     ]);
-    
+     
     return(
        <>
             <div>
